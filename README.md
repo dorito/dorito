@@ -3,9 +3,9 @@
 ###
 
 <p align="left">
-:briefcase: Software Engineer at <a href="https://yungas.com.br/">Yungas</a><br>
-:desktop_computer: I'm mostly focused at: web development<br>
-:hearts: I love to: test new technologies</p>
+  - Software Engineer at <a href="https://yungas.com.br/" target="_blank">Yungas</a><br>
+  - I usually work with web development<br>
+  - I love to test new technologies</p>
 
 ###
 
